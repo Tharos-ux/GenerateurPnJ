@@ -2,6 +2,7 @@
 Application java permettant la génération de PnJ/personnages secondaires.
 
 ----- UTILISATION -----
+
 Est seulement requis le contenu de l'archive.
 Décompressez l'archive et exécutez le .jar afin d'utiliser l'application.
 Requiert Java 8.0.
